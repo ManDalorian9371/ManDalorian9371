@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mostafa Rafati</h1>
-<h3 align="center">A passionate Full-Stack Web developer from Iran</h3>
+<h3 align="center">A passionate Full-Stack Web Developer From Iran</h3>
 
 - 🔭 I’m currently working on [100Devs](https://discord.gg/jpqjVng6)
 
