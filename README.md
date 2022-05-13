@@ -1,4 +1,4 @@
-<img src="back.jpg"
+<img src="back.jpg" >
 
 - 🔭 I’m currently working on [100Devs](https://discord.gg/jpqjVng6)
 
