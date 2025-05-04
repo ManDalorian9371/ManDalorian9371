@@ -1,8 +1,8 @@
 <img src="back.jpg" >
 
-- 🔭 I’m currently working on [100Devs](https://discord.gg/jpqjVng6)
+- 🔭 I’m currently working on Tales Of Nivar
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **GD SCRIPT**
 
 - 👨‍💻 All of my projects are available at [https://mostafa-rafati.netlify.app/](https://mostafa-rafati.netlify.app/)
 
