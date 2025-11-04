@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1byzrhYxfq4cgAZrTAhBdt93vNIhFwTbt/view](https://drive.google.com/file/d/1byzrhYxfq4cgAZrTAhBdt93vNIhFwTbt/view)
 
-- ⚡ Fun fact **I love Gaming , Specially Challenging ones , like darksouls or elden ring**
+- ⚡  **I love Gaming , Specially Challenging ones , like darksouls or elden ring**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
